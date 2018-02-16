@@ -2,17 +2,15 @@
   "name": "storyline",
   "version": "1.0.0",
   "description": "x",
-  
   "scripts": {
     "start": "node server.js"
   },
-  
   "engines": {
     "node": ">= 0.6.0",
     "npm": ">= 1.0.0"
   },
   "dependencies": {
-    "request": "~2.27.0",
+    "request": "~2.82.0",
     "twilio-js": "~0.1.1",
     "express": "~3.4.0"
   },

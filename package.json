@@ -12,9 +12,9 @@
     "npm": ">= 1.0.0"
   },
   "dependencies": {
-    "request": "~2.27.0",
+    "request": "~2.50.0",
     "twilio-js": "~0.1.1",
-    "express": "~3.4.0"
+    "express": "~4.16.0"
   },
   "devDependencies": {},
   "bundleDependencies": [],
